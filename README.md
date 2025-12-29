@@ -1,5 +1,5 @@
 # Superstore-sales-analytics.
-Retail Sales Dashboard | Python + SQL + Power BI | $2.6M Total Sales | Interactive Insights
+Retail Sales Dashboard | Python + SQL + Power BI | $2.26M Total Sales | Interactive Insights
 # LIVE INTERACTIVE DASHBOARD:
 [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/3bae7ed7-2819-451b-b866-6c4aa255434b/bb8d9ad9b628855d9fab?experience=power-bi)](https://app.powerbi.com/groups/me/reports/3bae7ed7-2819-451b-b866-6c4aa255434b/bb8d9ad9b628855d9fab?experience=power-bi)
 ## Key Insights
